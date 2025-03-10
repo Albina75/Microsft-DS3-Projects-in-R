@@ -3,7 +3,7 @@
 ## Introduction
 This project builds a predictive model for daily CitiBike trip counts in New York City using weather and calendar data. The goal is to understand how factors like temperature, precipitation, and holidays influence bike usage and to develop a robust model for forecasting future trips.
 <html>
-<img src = "https://github.com/user-attachments/assets/df24b475-d770-4f5f-8835-e54503efa230" width = "1000", Height = "400")>
+<img src = "https://github.com/user-attachments/assets/df24b475-d770-4f5f-8835-e54503efa230" width = "1000", Height = "350")>
 </html>
 
 ## Objective
